@@ -1,0 +1,16 @@
+{
+  "name": "bitbucket-webhook-api",
+  "version": "1.0.0",
+  "description": "Api for received webhoook of bitbucket, filter and send to jenkins for deploy branch and execute jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
