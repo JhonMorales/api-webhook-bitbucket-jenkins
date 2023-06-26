@@ -1,3 +1,6 @@
+# Video
+https://youtu.be/BEPFCPETHSw
+
 docker compose build
 docker compose up -d
 
